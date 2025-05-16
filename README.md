@@ -5,9 +5,7 @@
 
 <div  align="center">
 
-<a  href="https://github.com/sumberdayac/autocompletion">
-
-<img  src="docs/tree.png"  alt="Logo"  width="285">
+<a  href="https://github.com/The-Great-Dayan-s-Attorney/criminal-court-system">
 
 </a>
 
@@ -21,7 +19,6 @@ The Court Case Management System is designed to digitally track and manage crimi
 
 ## About The Project
 
-<img src="docs/background.png"  />
 
 ### Built With
 
