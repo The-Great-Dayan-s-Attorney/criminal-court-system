@@ -30,3 +30,10 @@ The Court Case Management System is designed to digitally track and manage crimi
 </div>
 
 ## Getting Started
+
+## Features
+
+## Created by
+- [Dayan Restu Anasta](dayan.restu.tif424@polban.ac.id)
+- [Fauzi Ismail](github.com/mailvlous)
+- [Virli Nasyila Putri](https://github.com/VirliNasyila)
