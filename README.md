@@ -19,6 +19,7 @@ The Court Case Management System is designed to digitally track and manage crimi
 
 ## About The Project
 
+</div>
 
 ### Built With
 
